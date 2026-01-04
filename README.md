@@ -11,7 +11,7 @@ Allow users to input a message and a shift value to perfrom encryption and decry
 <img width="495" height="528" alt="Screenshot 2026-01-04 175921" src="https://github.com/user-attachments/assets/0b1679c5-af8c-4f4b-8c3f-aa564df780ba" />
 
 
-
+## Proof of work (Video)
 https://github.com/user-attachments/assets/0bf70985-ab22-44be-81a7-0373974c2457
 
 
